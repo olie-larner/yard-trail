@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://use.typekit.net/nkv4vmb.css");
+
+html {
+    scroll-behavior: smooth;
+}
