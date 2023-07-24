@@ -70,7 +70,7 @@ const Home = () => {
       <Intro />
       <MultiYards />
       <Map />
-      {/* <Downloads /> */}
+      <Downloads />
       <Contact />
     </div>
   );

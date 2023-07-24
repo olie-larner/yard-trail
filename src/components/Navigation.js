@@ -58,13 +58,13 @@ const Navigation = () => {
         >
           MULTI YARDS
         </a>
-        {/* <a
+        <a
           className=" text-2xl mb-4 text-trail-slate hover:text-trail-pink"
           onClick={closeMenu}
           href="#posters"
         >
           POSTERS
-        </a> */}
+        </a>
         <a
           className=" text-2xl mb-5 text-trail-slate hover:text-trail-pink"
           onClick={closeMenu}
