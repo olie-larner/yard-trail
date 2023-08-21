@@ -4,6 +4,9 @@ import { Routes, Route, Switch } from 'react-router-dom';
 import Home from './pages/Home';
 import { Helmet } from 'react-helmet';
 import Footer from './components/Footer';
+import ReactGA from 'react-ga';
+ReactGA.initialize('G-GZ02SVN0EZ');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 function App(client) {
 	return (
@@ -15,10 +18,6 @@ function App(client) {
 					content="Stroud’s town-wide yard sale event. Sell from your doorstep. Keep stuff out of landfill. Build your community."
 				></meta>
 				<title>Stroud Yard Trail</title>
-				<script
-					src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCz7nmxDCdWIDzfHaWrcmzHb9ePBgDJTDo&v=weekly"
-					defer
-				></script>
 			</Helmet>
 			<Routes>
 				<Route client={client} exact path="/" Component={Home} />

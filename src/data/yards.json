@@ -1,0 +1,684 @@
+{
+	"yards": [
+		{
+			"address": "7 Upper Dorrington Ter, Stroud GL5 2JE",
+			"lat": 51.74170108601444,
+			"lng": -2.2105681698324076
+		},
+		{
+			"address": "Isla, Springfield Rd, Uplands, Stroud GL5 1TP",
+			"lat": 51.7496,
+			"lng": -2.21162
+		},
+		{
+			"address": "43 Bisley Rd Stroud GL5 1HF",
+			"lat": 51.74381330403559,
+			"lng": -2.2051617314432974
+		},
+		{
+			"address": "Stroud Trinity Rooms, Field Road GL5 2HZ",
+			"lat": 51.74279228418613,
+			"lng": -2.2094024090331255
+		},
+		{
+			"address": "2 Rothsay Villas, Lansdown GL5 1BZ",
+			"lat": 51.748201011950414,
+			"lng": -2.2099390277756386
+		},
+		{
+			"address": "The Old Co-op Shop, 64 Horns Road, Stroud GL51EG",
+			"lat": 51.74218355254757,
+			"lng": -2.204679529711147
+		},
+		{
+			"address": "46 Summer Crescent, Stroud GL5 1PP",
+			"lat": 51.748064893408795,
+			"lng": -2.1961090449358234
+		},
+		{
+			"address": "April Cottage, 14 Whitehall, Piccadilly GL5 1HA",
+			"lat": 51.74399181751702,
+			"lng": -2.2090667162178232
+		},
+		{
+			"address": "Sladbrook CoHousing, Merrywalks, Stroud GL5 1QA",
+			"lat": 51.74691990941716,
+			"lng": -2.2174511026073827
+		},
+		{
+			"address": "Wentworth, Cowle Road GL5 2JR",
+			"lat": 51.741366964613384,
+			"lng": -2.2068736858022486
+		},
+		{
+			"address": "108 Slad Road, Uplands, Stroud GL5 1QZ",
+			"lat": 51.74927758731981,
+			"lng": -2.208063416215988
+		},
+		{
+			"address": "2 Rodborough Terrace, Butterrow West, GL5 3UE",
+			"lat": 51.737842974996575,
+			"lng": -2.2208103602793376
+		},
+		{
+			"address": "27 Bisley Road, GL5 1HF",
+			"lat": 51.743974218945795,
+			"lng": -2.2059642026075275
+		},
+		{
+			"address": "2 Millbrook Place, Lansdown, Stroud GL5 1BA",
+			"lat": 51.74796573613002,
+			"lng": -2.211536673771586
+		},
+		{
+			"address": "59 Middle Street, Stroud, GL51EA",
+			"lat": 51.74400787577746,
+			"lng": -2.2104533179505372
+		},
+		{
+			"address": "The Medieval Hall, 34 High St, Flat 2 GL51AJ",
+			"lat": 51.74512662942913,
+			"lng": -2.215515860278985
+		},
+		{
+			"address": "19 Piccadilly, Stroud GL5 1HB",
+			"lat": 51.74384531792611,
+			"lng": -2.2105143162178473
+		},
+		{
+			"address": "11 Bisley Old Road, Stroud GL5 1PX",
+			"lat": 51.744674616680236,
+			"lng": -2.2021503026074774
+		},
+		{
+			"address": "42 Belmont Road, Stroud, GL5 1HH",
+			"lat": 51.7438116471242,
+			"lng": -2.2011506026074996
+		},
+		{
+			"address": "1 Chaceley Villas, Frome Park Road, GL5 3LF",
+			"lat": 51.740737945633946,
+			"lng": -2.2305690233741107
+		},
+		{
+			"address": "21 The Garden Flat, Lansdown, Stroud GL5 1BG",
+			"lat": 51.747253980593015,
+			"lng": -2.2149557737716163
+		},
+		{
+			"address": "22 George Street, Stroud GL5 3DP",
+			"lat": 51.745247043325335,
+			"lng": -2.217997002607469
+		},
+		{
+			"address": "4 Middle Spillmans, Stroud GL5 3RU",
+			"lat": 51.74137044047452,
+			"lng": -2.226250931443426
+		},
+		{
+			"address": "20 Nelson Street, Stroud GL5 2HN",
+			"lat": 51.74436793166024,
+			"lng": -2.2136773891147565
+		},
+		{
+			"address": "49 Horns Road, Stroud GL5 1EB",
+			"lat": 51.74277607958063,
+			"lng": -2.2060494737718304
+		},
+		{
+			"address": "The Cedars, Frome Park Road, Rodborough, Stroud GL5 3LF",
+			"lat": 51.74084752905945,
+			"lng": -2.230540573771909
+		},
+		{
+			"address": "19 Lower Street, Stroud GL5 2HT",
+			"lat": 51.74339579177759,
+			"lng": -2.210260102725309
+		},
+		{
+			"address": "25 Belle Vue Road, Stroud GL5 1JP",
+			"lat": 51.746540038713455,
+			"lng": -2.2125534026074147
+		},
+		{
+			"address": "3 Churchfield Road, Stroud GL5 1EQ",
+			"lat": 51.74136688393163,
+			"lng": -2.2042191026076687
+		},
+		{
+			"address": "13 London Road, Stroud GL5 2AJ",
+			"lat": 51.74335090561623,
+			"lng": -2.2152394315610393
+		},
+		{
+			"address": "17 Bisley Old Road, Stroud GL5 1PX",
+			"lat": 51.744970729887555,
+			"lng": -2.205121773771737
+		},
+		{
+			"address": "Hawkwood CFT, Painswick Old Road, Stroud GL6 7QW",
+			"lat": 51.757291123752594,
+			"lng": -2.208391435683871
+		},
+		{
+			"address": "Oakdene, 1 Kings Road, Rodborough GL5 3SA",
+			"lat": 51.74069011184176,
+			"lng": -2.2247026891149653
+		},
+		{
+			"address": "Blockleigh, Middle Street, Uplands, Stroud GL5 1TQ",
+			"lat": 51.749162980070345,
+			"lng": -2.2136956042193288
+		},
+		{
+			"address": "136 Slad Road, Stroud GL5 1RE",
+			"lat": 51.75066635679707,
+			"lng": -2.203829287379742
+		},
+		{
+			"address": "The Bluegables, 122a Bisley Road, GL5 3LE",
+			"lat": 51.74238518265076,
+			"lng": -2.1984467576675257
+		},
+		{
+			"address": "15 Castle Court, Castle Street, Stroud GL5 2JD",
+			"lat": 51.743723561365634,
+			"lng": -2.2130849297106527
+		},
+		{
+			"address": "65 Stone Manor, Bisley Road GL5 1JD",
+			"lat": 51.743493863635585,
+			"lng": -2.203733160279067
+		},
+		{
+			"address": "48 Spillman's Road, Stroud GL5 3LT",
+			"lat": 51.73992567253106,
+			"lng": -2.2274361873833977
+		},
+		{
+			"address": "24 Middle Street, Stroud GL5 1DZ",
+			"lat": 51.744134546269834,
+			"lng": -2.2116320026075065
+		},
+		{
+			"address": "78 Summer Street, Stroud GL5 1PA",
+			"lat": 51.74649106811008,
+			"lng": -2.201082673771654
+		},
+		{
+			"address": "2 Bisley Old Road, Stroud GL5 1LP",
+			"lat": 51.74495787284417,
+			"lng": -2.2071803737717204
+		},
+		{
+			"address": "33 Spillman's Road, Stroud GL5 3NE",
+			"lat": 51.74032061796987,
+			"lng": -2.22655194493619
+		},
+		{
+			"address": "Huckvales, 4 Bowbridge Lane, Stroud GL5 2JW",
+			"lat": 51.74188491245018,
+			"lng": -2.206271089114905
+		},
+		{
+			"address": "Rockfield, Cowle Road GL5 2JR",
+			"lat": 51.74173009602436,
+			"lng": -2.2067407375349353
+		},
+		{
+			"address": "1 Middle Spillman's, Stroud GL5 3RU",
+			"lat": 51.74137036828382,
+			"lng": -2.2262187585472133
+		},
+		{
+			"address": "7 Field Road, Rodborough, Stroud GL5 3SR",
+			"lat": 51.73991918840142,
+			"lng": -2.2257968449362013
+		},
+		{
+			"address": "27 Castlemead Road, Stroud GL5 3SF",
+			"lat": 51.740295074452746,
+			"lng": -2.2199933449361984
+		},
+		{
+			"address": "34 Parliament Street, Stroud GL5 1DP",
+			"lat": 51.74518232926539,
+			"lng": -2.2111588449359565
+		},
+		{
+			"address": "2 Churchfield Cottages, Churchfield Road, Stroud GL5 1EL",
+			"lat": 51.7413531375139,
+			"lng": -2.2044599891149423
+		},
+		{
+			"address": "4 Broomfield Cottages, Middle Street, Uplands, Stroud GL5 1TQ",
+			"lat": 51.74991501534779,
+			"lng": -2.2122160314430133
+		},
+		{
+			"address": "86a Slad Road, Uplands, Stroud GL5 1QZ",
+			"lat": 51.74910150324547,
+			"lng": -2.208508045051811
+		},
+		{
+			"address": "19a Lower Street, Gallery, Piccadilly Mill Courtyard, GL5 2HT",
+			"lat": 51.74344846378918,
+			"lng": -2.2102039891148313
+		},
+		{
+			"address": "1 Upper Dorrington Terrace, Stroud GL5 2JE",
+			"lat": 51.74182514095496,
+			"lng": -2.21070614320579
+		},
+		{
+			"address": "Deepdale, Middle Spillmans, Rodborough, GL5 3RU",
+			"lat": 51.741294697240725,
+			"lng": -2.2255187896555766
+		},
+		{
+			"address": "12 Upper Dorrington Terrace, Stroud GL5 2JE",
+			"lat": 51.741825197087955,
+			"lng": -2.2110944585470635
+		},
+		{
+			"address": "3 Hill Top Close, Stroud GL5 1PZ",
+			"lat": 51.74421906118329,
+			"lng": -2.1970713314432837
+		},
+		{
+			"address": "2 Upper Dorrington Terrace, Stroud GL5 2JE",
+			"lat": 51.741787690442784,
+			"lng": -2.210698583020947
+		},
+		{
+			"address": "102 Bisley Road, Stroud GL5 1HG",
+			"lat": 51.74288596569136,
+			"lng": -2.2028191891148587
+		},
+		{
+			"address": "17 Bisley Old Road, Stroud GL5 1PX",
+			"lat": 51.744977372783985,
+			"lng": -2.205121773771737
+		},
+		{
+			"address": "4 All Saints Fields, Summer Street, GL5 1NE",
+			"lat": 51.74615762639738,
+			"lng": -2.203523502607425
+		},
+		{
+			"address": "2 Castle Rise, Stroud GL5 2AW",
+			"lat": 51.74250009387339,
+			"lng": -2.212867631443356
+		},
+		{
+			"address": "Inverbeg, Lansdown GL51BU",
+			"lat": 51.74807091531462,
+			"lng": -2.21014657562187
+		},
+		{
+			"address": "54 High St, Stroud GL5 1AP",
+			"lat": 51.74549547047947,
+			"lng": -2.215757245053037
+		},
+		{
+			"address": "14 Upper Dorrington Terrace, Stroud GL5 2JE",
+			"lat": 51.74163320675184,
+			"lng": -2.2104490969211326
+		},
+		{
+			"address": "6 Bath Road, Stroud GL5 3JG",
+			"lat": 51.74373334903044,
+			"lng": -2.2245878314432956
+		},
+		{
+			"address": "3 Cleeve house, Brimscombe Hill, stroud GL5 2QW",
+			"lat": 51.71790650945861,
+			"lng": -2.1923408872657855
+		},
+		{
+			"address": "53 Horns Road, Stroud GL5 1EB",
+			"lat": 51.74276337961994,
+			"lng": -2.20602710260758
+		},
+		{
+			"address": "73 Bisley Old Rd, Stroud GL5 1NF",
+			"lat": 51.74445834519078,
+			"lng": -2.2017200027249517
+		},
+		{
+			"address": "17 Bisley Old Road, Stroud GL5 1PX",
+			"lat": 51.744977372783985,
+			"lng": -2.205100316100223
+		},
+		{
+			"address": "66 Horns Road, Stroud GL5 1EG",
+			"lat": 51.74200208843279,
+			"lng": -2.204514473771877
+		},
+		{
+			"address": "18 Castle Rise, Stroud GL5 2AW",
+			"lat": 51.742406053909164,
+			"lng": -2.213032189114882
+		},
+		{
+			"address": "5 Spider Lane, Stroud GL5 1EP",
+			"lat": 51.74062985757223,
+			"lng": -2.2045766162189615
+		},
+		{
+			"address": "35 Bisley Road, Stroud GL5 1HF",
+			"lat": 51.743778590302064,
+			"lng": -2.205732102607543
+		},
+		{
+			"address": "95 Horns Road, Stroud GL5 1EB",
+			"lat": 51.74263635023459,
+			"lng": -2.205361644936091
+		},
+		{
+			"address": "Little Wellow, Field Road GL5 2HZ",
+			"lat": 51.74156323073554,
+			"lng": -2.2120022935844714
+		},
+		{
+			"address": "7 King's Road, Stroud GL5 3SE",
+			"lat": 51.740978189787604,
+			"lng": -2.2231029121606496
+		},
+		{
+			"address": "23 Bowbridge Lane, Stroud GL5 2JP",
+			"lat": 51.741737682786884,
+			"lng": -2.205617231443413
+		},
+		{
+			"address": "Churchfield Road, Stroud GL5 1EQ",
+			"lat": 51.74158401088981,
+			"lng": -2.20442665445794
+		},
+		{
+			"address": "22 Chapel Street, Stroud GL5 1DU",
+			"lat": 51.74458568804738,
+			"lng": -2.209779773771746
+		},
+		{
+			"address": "147 Bisley Road, Stroud GL5 1HS",
+			"lat": 51.74289455211359,
+			"lng": -2.1964025737718424
+		},
+		{
+			"address": "47 Acre Street, Stroud GL5 1DR",
+			"lat": 51.745227057774464,
+			"lng": -2.211551217950489
+		},
+		{
+			"address": "5 Henley Villas, Uplands Road GL5 1UH",
+			"lat": 51.74903570257299,
+			"lng": -2.2114141737715354
+		},
+		{
+			"address": "30 Lansdown, Stroud GL5 1BG",
+			"lat": 51.74748503740242,
+			"lng": -2.2140934026073427
+		},
+		{
+			"address": "The Bowbridge Arms, London Road, Stroud, Gloucestershire GL5 2AY",
+			"lat": 51.737960126299,
+			"lng": -2.207294573772051
+		},
+		{
+			"address": "18 Strachans Close, Stroud GL5 3EB",
+			"lat": 51.74446113553661,
+			"lng": -2.2314355255082305
+		},
+		{
+			"address": "Field House, Field House Gardens, Stroud",
+			"lat": 51.740033394178475,
+			"lng": -2.205272893033542
+		},
+		{
+			"address": "93 Summer Street, Stroud GL5 1PQ",
+			"lat": 51.74673863473901,
+			"lng": -2.2010804273768865
+		},
+		{
+			"address": "30A Acre Street, Stroud GL5 1DR",
+			"lat": 51.744238606569134,
+			"lng": -2.2125409667081226
+		},
+		{
+			"address": "27 Middle St, Stroud GL5 1DZ",
+			"lat": 51.74408063211283,
+			"lng": -2.2110530737723817
+		},
+		{
+			"address": "5 Woodhouse Dr, Stroud GL5 3SQ",
+			"lat": 51.74024512893309,
+			"lng": -2.219254336369738
+		},
+		{
+			"address": "2 Mount Pleasant, Bisley Old Road, Stroud",
+			"lat": 51.74392973084908,
+			"lng": -2.2027272927567854
+		},
+		{
+			"address": "57 Lansdown, Stroud GL5 1BN",
+			"lat": 51.74714554218511,
+			"lng": -2.2141377027605347
+		},
+		{
+			"address": "45 Bisley Rd, Stroud",
+			"lat": 51.74371409980862,
+			"lng": -2.20506453240434
+		},
+		{
+			"address": "138 Slad Rd, Stroud GL5 1RE",
+			"lat": 51.750744347517866,
+			"lng": -2.203633899167268
+		},
+		{
+			"address": "58 Spillman's Rd, Stroud GL5 3LT",
+			"lat": 51.73960315420384,
+			"lng": -2.227547219873997
+		},
+		{
+			"address": "Springfield Rd, Uplands, Stroud GL5 1TX",
+			"lat": 51.74945833576528,
+			"lng": -2.210366190150951
+		},
+		{
+			"address": "Birchleigh, Middle Street, Uplands, Stroud",
+			"lat": 51.7491669795458,
+			"lng": -2.2134282235271088
+		},
+		{
+			"address": "Trevone, Cowle Road, Stroud, GL5 2JR",
+			"lat": 51.741144317122554,
+			"lng": -2.2070869128364157
+		},
+		{
+			"address": "14 Ben Grazebrooks Well, Stroud GL5 1DL",
+			"lat": 51.748124410127744,
+			"lng": -2.2089515481961164
+		},
+		{
+			"address": "97 Horns Rd, Stroud GL5 1EB",
+			"lat": 51.74253098739767,
+			"lng": -2.2053360333777605
+		},
+		{
+			"address": "2 Castle Villas, Castle Street, Stroud, GL5 2HP",
+			"lat": 51.74309916633782,
+			"lng": -2.212119048695324
+		},
+		{
+			"address": "Derry Garth, London Road, Stroud",
+			"lat": 51.73806770240711,
+			"lng": -2.2068692380737462
+		},
+		{
+			"address": "34 Spillman's Rd, Stroud GL5 3NB",
+			"lat": 51.74012834999669,
+			"lng": -2.2270529297128454
+		},
+		{
+			"address": "10 Rodborough Ave, Stroud GL5 3RS",
+			"lat": 51.741938792885556,
+			"lng": -2.2243563496463588
+		},
+		{
+			"address": "109 Horns Rd, Stroud GL5 1EE",
+			"lat": 51.74269199246822,
+			"lng": -2.204610466572802
+		},
+		{
+			"address": "48 Bisley Rd, Stroud GL5 1HF",
+			"lat": 51.74324623030938,
+			"lng": -2.204314965204791
+		},
+		{
+			"address": "32 Thompson Rd, Stroud GL5 1SY",
+			"lat": 51.751638622930415,
+			"lng": -2.209230219199451
+		},
+		{
+			"address": "12 The Square, Uplands, Stroud GL5 1SR",
+			"lat": 51.7511660342925,
+			"lng": -2.2126220213243415
+		},
+		{
+			"address": "37 Spillman's Rd, Stroud GL5 3NE",
+			"lat": 51.74019970929431,
+			"lng": -2.226566439058308
+		},
+		{
+			"address": "49 Spillman's Rd, Stroud GL5 3LS",
+			"lat": 51.739855338458014,
+			"lng": -2.226997925976162
+		},
+		{
+			"address": "20 lower dorrington terrace London road - but around the back, which is spring Lane! (Off London road/field rd Lower end) ",
+			"lat": 51.741163202765584,
+			"lng": -2.2107674824615318
+		},
+		{
+			"address": "95 Langtoft Rd, Stroud GL5 1NJ",
+			"lat": 51.746523038701476,
+			"lng": -2.194974110162814
+		},
+		{
+			"address": "15 Bowbridge Ln, Stroud GL5 2JP",
+			"lat": 51.7418657376482,
+			"lng": -2.2059615637473815
+		},
+		{
+			"address": "Church Cottage, Walkley Hill, Stroud, GL5 3TY",
+			"lat": 51.73816141806048,
+			"lng": -2.227825776393841
+		},
+		{
+			"address": "Hemlockwell House, Castle St, Stroud, GL5 2HP",
+			"lat": 51.7431118073405,
+			"lng": -2.211847814465663
+		},
+		{
+			"address": "49 Bisley Rd, Stroud GL5 1HF",
+			"lat": 51.743500994128105,
+			"lng": -2.204797048076259
+		},
+		{
+			"address": "6 Bowbridge Ln, Stroud GL5 2JW",
+			"lat": 51.74188444837843,
+			"lng": -2.2065762583152684
+		},
+		{
+			"address": "Butts Cottage, Butterrow West, GL5 3TZ, opposite Prince Albert",
+			"lat": 51.73893470635748,
+			"lng": -2.2247496143456496
+		},
+		{
+			"address": "12 Bowbridge Ln, Stroud GL5 2JW",
+			"lat": 51.74113700345195,
+			"lng": -2.2058943790092953
+		},
+		{
+			"address": "13 Upper Dorrington Terrace GL5 2JE",
+			"lat": 51.74166259483087,
+			"lng": -2.2104940959766033
+		},
+		{
+			"address": "57 Lansdown, Stroud GL5 1BN",
+			"lat": 51.74713406007872,
+			"lng": -2.2141386734991086
+		},
+		{
+			"address": "31 Spillman's Rd, Stroud GL5 3NE",
+			"lat": 51.74016764784266,
+			"lng": -2.2262229783962337
+		},
+		{
+			"address": "64 Spillman's Rd, Stroud GL5 3LT",
+			"lat": 51.73947470354467,
+			"lng": -2.227598413518323
+		},
+		{
+			"address": "11 Horns Rd, Stroud",
+			"lat": 51.74318480225798,
+			"lng": -2.2071883732008497
+		},
+		{
+			"address": "55 Valley View Rd, Stroud GL5 1HW",
+			"lat": 51.74311617201322,
+			"lng": -2.196691380466935
+		},
+		{
+			"address": "10 Summer St, Stroud GL5 1NY",
+			"lat": 51.745485943160766,
+			"lng": -2.2049307027606457
+		},
+		{
+			"address": "10 Belmont Rd, Stroud GL5 1HH",
+			"lat": 51.74273293619337,
+			"lng": -2.2009462363697057
+		},
+		{
+			"address": "Chevening, Birches Drive, Stroud GL5 1RP",
+			"lat": 51.748463245452044,
+			"lng": -2.2150161662707184
+		},
+		{
+			"address": "4 Henley Villas, Uplands Road GL5 1UH",
+			"lat": 51.74885769248296,
+			"lng": -2.2115458983655376
+		},
+		{
+			"address": "149 Bisley Rd, Stroud GL5 1HS",
+			"lat": 51.74259324486148,
+			"lng": -2.196224373925724
+		},
+		{
+			"address": "2 Highfield Rd, Stroud GL5 1ER",
+			"lat": 51.74060288819534,
+			"lng": -2.203734378845885
+		},
+		{
+			"address": "Applewood Churchfield Road, GL5 1EQ",
+			"lat": 51.741369295995376,
+			"lng": -2.204635429429081
+		},
+		{
+			"address": "2 Spider Ln, Stroud GL5 1EP",
+			"lat": 51.74144268891671,
+			"lng": -2.2033702192936087
+		},
+		{
+			"address": "51 Bisley Old Rd, Stroud GL5 1LY",
+			"lat": 51.74458788090226,
+			"lng": -2.203056406649708
+		},
+		{
+			"address": "Ash Road, Lightpill, GL5 3PB",
+			"lat": 51.732384143196256,
+			"lng": -2.232586389825105
+		}
+	]
+}
