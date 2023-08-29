@@ -9,6 +9,8 @@ import Navigation from "../components/Navigation";
 import Contact from "../components/Contact";
 import Downloads from "../components/Downloads";
 import MultiYards from "../components/MultiYards";
+import SuperYard from "../components/SuperYard";
+import DownloadMap from "../components/DownloadMap";
 
 const Home = () => {
   const HOME_QUERY = gql`
@@ -69,6 +71,8 @@ const Home = () => {
       <Hero trigger={loading} />
       <Intro />
       <MultiYards />
+      <SuperYard />
+      <DownloadMap />
       <Map />
       <Downloads />
       <Contact />
