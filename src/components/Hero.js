@@ -26,8 +26,8 @@ const Hero = (trigger) => {
 			</div>
 			<div className="flex flex-col justify-center w-full h-auto px-8 py-10 lg:w-1/2 md:h-1/3 lg:h-screen lg:pl-11">
 				<h2 className="font-sans text-5xl italic font-extrabold text-white">
-					Monday <br className="md:hidden lg:block" />
-					28th August 2023
+					{/* Monday <br className="md:hidden lg:block" /> */}
+					Coming soon...
 				</h2>
 				<p className="text-3xl italic font-light leading-8 text-white md:leading-9 pt-7">
 					Stroud’s town-wide yard sale event <br />

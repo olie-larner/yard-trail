@@ -1,19 +1,19 @@
-import React from "react";
+import React from 'react';
 
 const Footer = () => {
-  return (
-    <div className=" bg-slate-800 py-12">
-      <div className="w-10/12 mx-auto flex flex-col md:flex-row text-white">
-        <div className="w-full md:w-1/2">&copy; Stroud Yard Trail 2023</div>
-        <div className="pt-3 md:pt-0 md:text-right w-full md:w-1/2">
-          Site by{" "}
-          <a className=" font-semibold" href="https://olielarner.com">
-            Olie Larner
-          </a>
-        </div>
-      </div>
-    </div>
-  );
+	return (
+		<div className="py-12  bg-slate-800">
+			<div className="flex flex-col w-10/12 mx-auto text-white md:flex-row">
+				<div className="w-full md:w-1/2">&copy; Stroud Yard Trail 2024</div>
+				<div className="w-full pt-3 md:pt-0 md:text-right md:w-1/2">
+					Site by{' '}
+					<a className="font-semibold " href="https://olielarner.com">
+						Olie Larner
+					</a>
+				</div>
+			</div>
+		</div>
+	);
 };
 
 export default Footer;
